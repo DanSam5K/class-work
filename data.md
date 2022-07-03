@@ -1,3 +1,3 @@
-Name: Bakoshi Isaac Emmanuel
-To become one of the top full-stack developer in Nigeria.
-facebook name is Isaac Bakoshi, Twiter/Telegrame/Instagram handle is @Kadunapikin 
+Name: Bakoshi Isaac Emmanuel.
+My vision for learning coding this week is the git basics.
+My facebook name is Isaac Bakoshi, Twiter/Telegrame/Instagram handle is @Kadunapikin 
