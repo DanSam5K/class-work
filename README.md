@@ -10,4 +10,4 @@ Here we are demonstrating how to use Git and  Github collaboratively
 - Make changes and add contributions to the project
 - commit your changes
 - Push to github and create a pull request
-- Ask for code review
+- Ask for code review 
