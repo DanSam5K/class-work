@@ -10,6 +10,18 @@ twitter:https://twitter.com/Phildeone?t=PM9k2bT3o7r6gtfLXp-Nuw&s=03
 Linkedin:https://www.linkedin.com/in/peby-creative-concepts-yakubu-bobai-ephraim-093967131
 Instagram: @phildeoner
 
+Full name: 
+Daniel Samuel
+
+Vision for Learning Coding this week:
+To be the next inventor in the tech space
+
+Social Media Links:
+
+twitter: @_dan_sam
+Linkedin: https://www.linkedin.com/in/dansamuel/
+Github: https://github.com/DanSam5K
+
 Name: Bakoshi Isaac Emmanuel.
 My vision for learning coding this week is the git basics.
 My facebook name is Isaac Bakoshi, Twiter/Telegrame/Instagram handle is @Kadunapikin, 2go username is Iceman427
