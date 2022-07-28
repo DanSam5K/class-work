@@ -1,0 +1,36 @@
+.flex-container{
+    display: flexbox;
+    flex-direction: column;
+    background-color: black;
+    color: aliceblue;
+    /* height: 200px; */
+
+}
+
+.one{
+    height: 200px;
+    width: 300px;
+    background-image: url(/class-work/Akutsangs-folder/recipes-assignment/images/chocolate-cake.webp);
+    border-radius: 100px;
+}
+.two{
+    height: 200px;
+    width: 300px;
+    border-radius: 100px;
+    background-image: url(/class-work/Akutsangs-folder/recipes-assignment/images/salmon.webp);
+}
+
+.four{
+    height: 200px;
+    width: 300px;
+    border-radius: 100px;
+    background-image: url(/class-work/Akutsangs-folder/recipes-assignment/images/buffalo\ chicken.webp);
+}
+
+.three{
+    height: 200px;
+    width: 300px;
+    background-image: url(/class-work/Akutsangs-folder/recipes-assignment/images/toast.webp);
+    border-radius: 100px;
+}
+
