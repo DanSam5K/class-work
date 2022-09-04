@@ -40,3 +40,10 @@ My goal for learning coding this week is for me to be a profficient full stack d
 social media handles:https://www.facebook.com/Josh.NATH3 
 https://twitter.com/Bazzzim?t=TYMVKVjiG-lh2u9sDP3wVA&s=08
 https://www.linkedin.com/in/joshua-nathaniel-96b5ab125
+
+Name: Dickson Bakeung Peter
+My vision for learning coding this week is to learn html and css
+Social Media Handles:
+Facebook: facebook.com/bakeung dickson
+twitter: @BakeungP
+Github: BlaizDickson
